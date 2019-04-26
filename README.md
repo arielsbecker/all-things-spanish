@@ -1,5 +1,5 @@
 # all-things-spanish
-Just an index for the milestones on this project in Go Nebulas
+Just an index for the milestones on [this project](https://go.nebulas.io/project/96) in Go Nebulas
 
 ## Index
 
