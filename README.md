@@ -8,7 +8,7 @@ Just an index for the milestones on [this project](https://go.nebulas.io/project
 * [Yellow Paper (NR)](https://github.com/arielsbecker/nr-report): translation of the Yellow Paper.
 * [Nebulas NOVA Tech](https://bitbucket.org/editorialarseb/nebulas-nova-tech): translation of the last PPT on Nebulas NOVA; it replaces the translation of the old PPT on Thinking in Blockchain.
 * [Nebulas para gatos](https://bitbucket.org/editorialarseb/nebulas-para-gatos): a colloquial intro to Nebulas that groups all the basics you need to start. 
-* [NAS Nano Tutorial](https://bitbucket.org/editorialarseb/tutorial-para-nas-nano): a small guide to use the NAS Nano app.
+* [NAS Nano Tutorial](https://bitbucket.org/editorialarseb/tutorial-para-nas-nano): a small guide to use the NAS Nano app, it replaces the redundant guide on how to install Nebulas in Ubuntu, as it's already covered in detail in the following wiki article.
 * [Nebulas 101 - Installation](https://github.com/nebulasio/nebdocs/pull/144): translation of this wiki article on how to install a node in linux or MacOS.
 
 ## Observations
@@ -16,3 +16,5 @@ Just an index for the milestones on [this project](https://go.nebulas.io/project
 There are just a few images I left untranslated, as I don't have the originals to edit, and doing it over the png's will result in a poor result, so I'll edit them once I have access to the editables (svg, ai, or any other format).
 
 The PDF compilations for the LaTeX articles can include their references in English as I was unable to implement Babel in them without breaking it. I'm using texlive, and I noticed Nebulas Team is using xelatex, so I'll leave the source code as it is, so they can merge the code and use xelatex to compile the PDF. In any case, I can provide a rendered PDF using a conversion to texlive format in a separate repo or folder if needed.
+
+Notice there are two replacements: Nebulas NOVA Tech PDF replaces the old “Thinking in Blockchain”, as the former is much more needed; NAS Nano tutorial replaces the redundant guide on how to install Nebulas on Ubuntu, as the topic is covered in detail in Nebulas 101 - Installation.
